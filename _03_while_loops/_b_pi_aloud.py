@@ -15,6 +15,7 @@ if __name__ == '__main__':
     #  pi_str[0]   # first digit
     #  pi_str[1]   # second digit
 
+
     # TODO) Use a while loop to keep asking for the next digit of pi
 
         # TODO) If they are correct, print "correct".

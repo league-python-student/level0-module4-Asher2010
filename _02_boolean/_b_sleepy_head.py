@@ -9,6 +9,7 @@ if __name__ == '__main__':
     #  1. Use a boolean variable to indicate if it is the weekend.
     #     Display a different message to the user depending on whether it is
     #     the weekend or not.
+
     #  2. Use a boolean variable to indicate if a student passed an exam.
     #     Display a different message to the user depending on whether they
     #     passed or not.
